@@ -1,2 +1,2 @@
 # Ionic3-Elastic-header
-![](elastic header.gif)
+![](elastic_header.gif)
