@@ -1,4 +1,4 @@
-# Ionic3-Elastic-header
+# Ionic3-Elastic-header (Demo)
 ![](elastic_header.gif)
 
 ## Setup
